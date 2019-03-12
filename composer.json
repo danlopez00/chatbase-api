@@ -1,5 +1,5 @@
 {
-    "name": "richdynamix/chatbase-api",
+    "name": "danlopez00/chatbase-api",
     "description": "PHP SDK Wrapper for the Chatbase API (unofficial)",
     "type": "library",
     "require": {
@@ -19,6 +19,10 @@
         {
             "name": "Steven Richardson",
             "email": "steven@richdynamix.com"
+        },
+        {
+            "name": "Dan Lopez",
+            "email": "hello@metavoyant.com"
         }
     ],
     "autoload": {
