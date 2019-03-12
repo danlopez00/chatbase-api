@@ -27,7 +27,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Richdynamix\\Chatbase\\": "src/",
+            "Danlopez00\\Chatbase\\": "src/",
             "Tests\\": "tests/"
         }
     },
@@ -39,10 +39,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Richdynamix\\Chatbase\\ChatbaseServiceProvider"
+                "Danlopez00\\Chatbase\\ChatbaseServiceProvider"
             ],
             "aliases": {
-                "Chatbase": "Richdynamix\\Chatbase\\Facades\\Chatbase"
+                "Chatbase": "Danlopez00\\Chatbase\\Facades\\Chatbase"
             }
         }
     },
